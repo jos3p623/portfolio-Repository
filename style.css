@@ -66,6 +66,7 @@ section {
     font-size: large;
     box-shadow: 2px 2px 4px black;
     border-radius: 24px;
+    background-color: #111827;
 }
 #contact {
     margin-top: 1rem;
@@ -76,7 +77,7 @@ section {
 .Uskill {
     list-style: none;
     padding: 0.5rem 1rem;
-    background:#070b17;;
+    background:#111827;
     border-radius: 5px;
     border-color: aqua;
     border: 0px solid;
@@ -92,6 +93,8 @@ section {
     border-radius: 5px;
     border-color: aqua;
     border: 2px solid;
+    display: flex;
+    gap: 1rem;
 }
 
 #skills {
