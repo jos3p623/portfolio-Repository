@@ -73,6 +73,27 @@ section {
     font-size: large;
 }
 
+.Uskill {
+    list-style: none;
+    padding: 0.5rem 1rem;
+    background:#070b17;;
+    border-radius: 5px;
+    border-color: aqua;
+    border: 0px solid;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.Uskill span {
+    list-style: none;
+    padding: 0.5rem 1rem;
+    background:#111827;
+    border-radius: 5px;
+    border-color: aqua;
+    border: 2px solid;
+}
+
 #skills {
     margin-top: 1rem;
     font-weight: bold;
